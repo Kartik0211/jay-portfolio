@@ -3,7 +3,7 @@ import HomePage from './pages/HomePage';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/jay-portfolio">
       <Routes>
         <Route path="/" element={<HomePage />} />
       </Routes>
