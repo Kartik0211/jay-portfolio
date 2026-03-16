@@ -1,0 +1,93 @@
+{
+    "site": {
+        "title": "Jay Wadekar Design",
+        "headline": "Luxurious Interior And Industrial Design",
+        "locationText": "MIAMI-BASED INTERIOR DESIGN",
+        "marqueeText": "LUXURIOUS INTERIOR + MIAMI-BASED INTERIOR DESIGN",
+        "contactEmail": "hello@jaywadekardesign.com"
+    },
+    "founders": [
+        {
+            "name": "Jay Wadekar",
+            "role": "Founder and Principal",
+            "image": "/assets/images/founders/jay-wadekar-portrait.jpg",
+            "specialty": "The 6K+ Specialized in Luxury"
+        },
+        {
+            "name": "Sarah Chen",
+            "role": "Associate Designer",
+            "image": "/assets/images/founders/associate-designer-portrait.jpg",
+            "specialty": "Modern Industrial Expert"
+        }
+    ],
+    "stats": [
+        {
+            "value": "14",
+            "label": "Projects Done"
+        },
+        {
+            "value": "9",
+            "label": "Current Works"
+        },
+        {
+            "value": "100+",
+            "label": "Happy Clients"
+        }
+    ],
+    "showroom": {
+        "title": "Visit Our Showroom",
+        "description": "Experience our curated collection of luxury interior pieces and industrial accents in person.",
+        "buttonText": "About Us"
+    },
+    "portfolio": {
+        "featured": {
+            "id": "miami-villa",
+            "name": "Miami Modern Villa",
+            "location": "Miami, FL",
+            "description": "A breathtaking modern villa featuring expansive open spaces and custom industrial fixtures.",
+            "image": "/assets/images/portfolio/project1-main.jpg"
+        },
+        "projects": [
+            {
+                "id": "britto-living",
+                "name": "Britto Living Room",
+                "location": "Miami, FL",
+                "image": "/assets/images/portfolio/project2-thumb.jpg"
+            },
+            {
+                "id": "industrial-loft",
+                "name": "Downtown Loft",
+                "location": "New York, NY",
+                "image": "/assets/images/portfolio/project3-thumb.jpg"
+            },
+            {
+                "id": "luxury-penthouse",
+                "name": "Ocean Penthouse",
+                "location": "Sunny Isles",
+                "image": "/assets/images/portfolio/project4-thumb.jpg"
+            }
+        ]
+    },
+    "socials": [
+        {
+            "name": "Instagram",
+            "icon": "instagram.svg",
+            "url": "#"
+        },
+        {
+            "name": "Pinterest",
+            "icon": "pinterest.svg",
+            "url": "#"
+        },
+        {
+            "name": "Vimeo",
+            "icon": "vimeo.svg",
+            "url": "#"
+        },
+        {
+            "name": "Facebook",
+            "icon": "facebook.svg",
+            "url": "#"
+        }
+    ]
+}
